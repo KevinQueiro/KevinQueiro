@@ -1,3 +1,4 @@
+<img src ="https://user-images.githubusercontent.com/73044295/119759761-2bce5a80-be7f-11eb-8afe-c40c08db2de7.jpg"/>
 <h1 align="center">Hi 👋, I'm Kevin Queiro</h1>
 <h3 align="center">A passionate fullstack from argentina</h3>
 
